@@ -1,7 +1,7 @@
 # MovieLens-Recommendation
 Final Project for CSCI-SHU 235 Information Visualization
 
-For this project, we present a movie visualization system from data exploration to movie recommendation. After conducting data analysis, we build a system to visualize: 
+For this project, we present a movie visualization system from data exploration to movie recommendation. After conducting data analysis, we build a system to visualize: <br>
 1)background of the user group; 
 2)movie data overview and statistics based on different genres, genders, user occupations;
 3)movie recommendation system built upon collaborative filtering recommendation methodology. 
