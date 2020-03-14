@@ -8,4 +8,4 @@ For this project, we present a movie visualization system from data exploration 
 
 Through visualization, the study provides a deep understanding of the movie industry and implements the simple recommendation principle behind big movie sites like Netflix.
 
-### Please check "Final report.pdf" for more information.
+#### Please check "Final report.pdf" for more information.
